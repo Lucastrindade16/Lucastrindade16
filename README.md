@@ -6,6 +6,8 @@
 
 - 🔥 Estudante de ADS (Análise e Desenvolvimento de Sistemas) no SENAI
 
+<br>
+</br>
 
 ## 🛠 &nbsp; Studying
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
