@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://media.discordapp.net/attachments/934932555407454278/1193741190223372510/image.png"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Croak Dev</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CroakDev&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer & Enthusiast in the world of technology
@@ -14,9 +14,11 @@
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp; Studying
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+
+
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
