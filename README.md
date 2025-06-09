@@ -29,7 +29,7 @@
 ## Contact
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/lucas-trindade-b5713229b/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Lucas-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Lucas-05122A?style=flat&logo=Linkedin" alt="Linkedin"/>
 </a>
 <a href="https://www.instagram.com/lucas1ts/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Lucas-05122A?style=flat&logo=instagram" alt="instagram"/>
