@@ -4,7 +4,7 @@
 <br>
 </br>
 
-- 🔥 Estudante de ADS (Análise e Desenvolvimento de Sistemas) no SENAI
+- 🌱 Estudante de ADS (Análise e Desenvolvimento de Sistemas) no SENAI
 
 <br>
 </br>
