@@ -30,20 +30,11 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/CroakDev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-CroakDev-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/CroakDev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-CroakDev-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/CroakDev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-CroakDev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/lucas-trindade-b5713229b/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Lucas-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/lucas1ts/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-CroakDev-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://www.youtube.com/channel/UCT8F2daj8p_9OKwR46R2qQA" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-CroakDev-05122A?style=flat&logo=youtube" alt="youtube"/>
+ <img align="center" src="https://img.shields.io/badge/-Lucas-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
