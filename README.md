@@ -19,7 +19,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![PYTHON](https://img.shields.io/badge/-PYTHON-05122A?style=flat&logo=PYTHON5)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin5)&nbsp;
+![KOTLIN](https://img.shields.io/badge/-KOTLIN-05122A?style=flat&logo=KOTLIN5)&nbsp;
 <br><br>
 
 ## Contact
