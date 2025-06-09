@@ -1,6 +1,8 @@
 <img align="right" height="590em" src="https://media.discordapp.net/attachments/934932555407454278/1193741190223372510/image.png"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas</h1>
-
+<p>
+  
+</p>
 
 - 🔥 Estudante de ADS (Análise e Desenvolvimento de Sistemas) no SENAI
 
