@@ -25,10 +25,6 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![PYTHON](https://img.shields.io/badge/-PYTHON-05122A?style=flat&logo=PYTHON5)&nbsp;
 
-
-<br><br>
-
-
 <br><br>
 
 ## Contact
@@ -43,7 +39,7 @@
 <a href="https://linkedin.com/in/CroakDev" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-CroakDev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/cadu_ayres" target="_blank">
+<a href="https://www.instagram.com/lucas1ts/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-CroakDev-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://www.youtube.com/channel/UCT8F2daj8p_9OKwR46R2qQA" target="_blank">
