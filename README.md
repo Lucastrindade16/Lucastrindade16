@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **Oneye 😜**
 
-
 <br><br>
 
 ## 🛠 &nbsp; Studying
@@ -24,11 +23,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![PYTHON](https://img.shields.io/badge/-PYTHON-05122A?style=flat&logo=PYTHON5)&nbsp;
-
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin5)&nbsp;
 <br><br>
 
 ## Contact
-
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/lucas-trindade-b5713229b/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Lucas-05122A?style=flat&logo=linkedin" alt="linkedin"/>
