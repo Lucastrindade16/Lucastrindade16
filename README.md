@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://media.discordapp.net/attachments/934932555407454278/1193741190223372510/image.png"/>
-<h1 align="left">Hi 👋>, I'm Lucas</h1>
+<h1 align="left">Hi 👋, I'm Lucas</h1>
 
 <br>
 </br>
