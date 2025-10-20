@@ -1,7 +1,5 @@
 # 👩🏻‍💻 Lucas Trindade
 
-**`Desenvolvedora FullStack`**
-
 Olá! Me chamo Lucas Trindade de Santana, tenho 17 anos e sou natural de São Paulo. Hoje em dia estou cursando Análise e Desenvolvimento de Sistemas no SENAI.
 
 <a href="https://github.com/Lucastrindade16h?tab=repositories&sort=stargazers">
