@@ -13,7 +13,7 @@ Olá! Me chamo Lucas Trindade de Santana, tenho 17 anos e sou natural de São Pa
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Lucastrindade16?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Lucastrindade16?color=236ad3&labelColor=1155ba&style=for-the-                badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -21,7 +21,7 @@ Olá! Me chamo Lucas Trindade de Santana, tenho 17 anos e sou natural de São Pa
 ---
 
 ### 🤖 Linguagens e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=java,go,python,kotlin,spring,kafka,aws,redis,postgresql,mysql,docker,mongodb,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,kotlin,jscript,react,html,css,figma)](https://skillicons.dev)
 <br/>
 
 ### 📊 Estatísticas
