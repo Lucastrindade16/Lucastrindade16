@@ -19,6 +19,10 @@ Olá! Me chamo Lucas Trindade de Santana, tenho 17 anos e sou natural de São Pa
 </p>
 
 ---
+### 📒 Estudando
+[![My Skills](https://skillicons.dev/icons?i=regex,nodejs)](https://skillicons.dev)
+
+---
 
 ### 🤖 Linguagens e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=python,kotlin,js,react,html,css,figma)](https://skillicons.dev)
