@@ -3,9 +3,9 @@
 Olá! Me chamo Lucas Trindade de Santana, tenho 17 anos e sou natural de São Paulo. Hoje em dia estou cursando Análise e Desenvolvimento de Sistemas no SENAI.
 
 <a href="https://github.com/Lucastrindade16h?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+        <img
+            alt="Total de estrelas"
+            title="Total de estrelas GitHub"
             src="https://custom-icon-badges.demolab.com/github/stars/Lucastrindade16?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
